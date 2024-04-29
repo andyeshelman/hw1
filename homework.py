@@ -12,7 +12,7 @@ else:
 
 # Task 2: Your Mood Today
 
-mood = input("How do you feel today?")
+mood = input("How do you feel today?\n")
 
 if mood == "happy":
     print("That's great to hear!")
